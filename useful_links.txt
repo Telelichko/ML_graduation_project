@@ -1,0 +1,28 @@
+1. Databases:
+
++ 1) https://social.ranepa.ru/baza (files .sav);
+- 2) (https://vk.com/topic-133320028_34820773;)
+3) http://eurasiamonitor.org/issliedovaniia#ul-id-7-8;
+- 4) http://hdr.undp.org/en/data; - тормозит, не скачивает базы;
++ 5) https://datacatalog.worldbank.org/search/datasets?search_api_views_fulltext_op=AND&query=Psychology&nid=&sort_by=search_api_relevance&sort_order=DESC&f%5B0%5D=type%3Adataset ;
+- 6) https://data.oecd.org/;
+-+7) https://ec.europa.eu/eurostat/web/microdata; https://ec.europa.eu/eurostat/data/database;
+-+8) https://population.un.org/;
+- 9) https://ourcountryindata.ru/;
+  10) https://openai.com/;
+
+
+
+2. Online converters (from sav):
+
++ 1) https://pspp.benpfaff.org/; - не всегда работает
++ 2) https://secure.ncounter.de/SpssConverter;
+  3) https://translate.googleusercontent.com/translate_c?depth=1&hl=ru&prev=search&rurl=translate.google.com&sl=en&sp=nmt4&u=http://www.gnu.org/software/pspp/&usg=ALkJrhgFYs1eL0x2QavPWwDfmqH6NK6kMQ;
+
+3. Articles and bases with articles:
+
+- 1) https://cyberleninka.ru/article/n/baza-dannyh-dlya-provedeniya-nauchnyh-issledovaniy-modelirovanie-protsessov-innovatsionnogo-razvitiya-balneologicheskih-kurortnyh/viewer;
+- 2) http://www.ssc-ras.ru/files/files/61-65_Zorin_.pdf;
+- 3) http://www.chumakovs.ru/institute/perechen_baz;
+- 4) http://citforum.ru/database/articles/problems/;
+5) 
